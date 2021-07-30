@@ -9,7 +9,6 @@ import org.springframework.stereotype.Service;
 
 import com.springrest.springrest.entities.Course;
 
-import jdk.internal.org.jline.utils.Log;
 
 @Service
 public class courseServiceImpl implements courseService {
