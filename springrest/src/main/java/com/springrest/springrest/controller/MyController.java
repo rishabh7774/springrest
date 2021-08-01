@@ -13,7 +13,7 @@ import com.springrest.springrest.entities.*;
 @RestController
 @RequestMapping("/api")
 public class MyController {
-	
+	//divya
 	@Autowired
 	private courseService courseService;
 
